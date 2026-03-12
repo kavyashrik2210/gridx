@@ -35,6 +35,7 @@
 | [0013-roman-to-integer](https://github.com/kavyashrik2210/gridx/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/kavyashrik2210/gridx/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kavyashrik2210/gridx/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/kavyashrik2210/gridx/tree/main/0022-generate-parentheses/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,6 +50,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kavyashrik2210/gridx/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/kavyashrik2210/gridx/tree/main/0022-generate-parentheses/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,4 +59,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/kavyashrik2210/gridx/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/kavyashrik2210/gridx/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
