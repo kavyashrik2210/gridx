@@ -10,6 +10,7 @@
 | [0016-3sum-closest](https://github.com/kavyashrik2210/gridx/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/kavyashrik2210/gridx/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kavyashrik2210/gridx/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0031-next-permutation](https://github.com/kavyashrik2210/gridx/tree/main/0031-next-permutation/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -18,6 +19,7 @@
 | [0016-3sum-closest](https://github.com/kavyashrik2210/gridx/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/kavyashrik2210/gridx/tree/main/0018-4sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kavyashrik2210/gridx/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0031-next-permutation](https://github.com/kavyashrik2210/gridx/tree/main/0031-next-permutation/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
