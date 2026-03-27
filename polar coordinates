@@ -1,0 +1,15 @@
+# Enter your code here. Read input from STDIN. Print output to STDOUT
+import cmath
+
+# Input complex number
+z = complex(input())
+
+# Modulus
+r = abs(z)
+
+# Phase
+theta = cmath.phase(z)
+
+# Output
+print(r)
+print(theta)
