@@ -1,0 +1,15 @@
+# Enter your code here. Read input from STDIN. Print output to STDOUT
+import re
+
+n = int(input())
+
+for _ in range(n):
+    line = input()
+
+    # Replace && with and
+    line = re.sub(r'(?<= )&&(?= )', 'and', line)
+
+    # Replace || with or
+    line = re.sub(r'(?<= )\|\|(?= )', 'or', line)
+
+    print(line)
