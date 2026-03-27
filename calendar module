@@ -1,0 +1,14 @@
+# Enter your code here. Read input from STDIN. Print output to STDOUT
+import calendar
+
+# Input
+month, day, year = map(int, input().split())
+
+# Find weekday (0 = Monday, 6 = Sunday)
+day_index = calendar.weekday(year, month, day)
+
+# Convert to day name
+day_name = calendar.day_name[day_index]
+
+# Output in uppercase
+print(day_name.upper())
