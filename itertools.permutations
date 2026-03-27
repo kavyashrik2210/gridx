@@ -1,0 +1,16 @@
+# Enter your code here. Read input from STDIN. Print output to STDOUT
+from itertools import permutations
+
+# Input
+s, k = input().split()
+k = int(k)
+
+# Sort string to ensure lexicographic order
+s = sorted(s)
+
+# Generate permutations
+result = permutations(s, k)
+
+# Print each permutation
+for p in result:
+    print("".join(p))
